@@ -1,5 +1,4 @@
-{
-  onlineResources: [
+[onlineResources: [
     {name: "RANZCOG", link: "xvy.com", description:""},
     {name: "RANZCOG", link: "xvy.com", description:""}
   ],
@@ -9,4 +8,4 @@ learningResources:[
     {name: "RANZCOG", link: "xvy.com", description:""},
     {name: "RANZCOG", link: "xvy.com", description:""}
   ]
-}
+]
